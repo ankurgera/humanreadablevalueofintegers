@@ -27,5 +27,5 @@ You may make these assumptions:
 
 - Your program will only be passed well-formed inputs.
 - All of your inputs will be integers.
-- All of your inputs will have an absolute value under 2 billion.
-- You can write your code in any language you choose.
+- All of your inputs will have an absolute value under 100 billion.
+
