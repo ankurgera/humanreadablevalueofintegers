@@ -8,15 +8,19 @@ below. Here's an example set of inputs and outputs that you should see from
 your program:
 
 $ ./example-solution 1
+
 one
 
 $ ./example-solution 17
+
 seventeen
 
 $ ./example-solution 1000018
+
 one million eighteen
 
 $ ./example-solution 123456789
+
 one hundred twenty three million four hundred fifty six thousand seven hundred eighty nine
 
 You may make these assumptions:
