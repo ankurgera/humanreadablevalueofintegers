@@ -1,3 +1,5 @@
+# Print out a human-readable form of an integer.
+
 NUM_0_TO_19 = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", 
 "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", 
 "Seventeen", "Eighteen", "Nineteen"]
